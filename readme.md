@@ -4,6 +4,9 @@ Pump up the volume on your typesetting ✨
 
 Mascara applies persistent italics to your colorschemes, and works great with fonts like [Operator Mono](https://www.typography.com/fonts/operator/styles/operatormonoscreensmart) or [Dank Mono](https://dank.sh)!
 
+![GIF showing persistent italics throughout colorschemes](assets/teaser.gif?raw=true)
+_Using Mascara with Dank Mono for attractive italic highlighting_
+
 ## Installation
 
 - [pathogen](https://github.com/tpope/vim-pathogen): run `git clone git://github.com/codehearts/mascara-vim.git ~/.vim/bundle/mascara-vim`
@@ -49,7 +52,6 @@ Mascara doesn't remove italics from your colorschemes, so some themes may displa
 ## Future Ideas
 
 - [ ] Add `doc/`
-- [ ] Screenshot
 - [ ] Flag for appending to the default groups
 - [ ] Support cterm and term
 - [ ] Support bold, underline, etc
